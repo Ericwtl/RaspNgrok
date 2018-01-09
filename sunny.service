@@ -1,0 +1,8 @@
+[Unit]
+Description=Sunny-Ngrok的自启服务
+After=network.target
+[Service]
+Type=simple
+ExecStart=/home/pi/ngrok/ngrok.sh
+[Install]
+WantedBy=multi-user.target
