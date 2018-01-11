@@ -7,5 +7,5 @@ Sunny-Ngrok一键在树莓派自动安装以及开机启动，以及自动监测
 * 完毕
 
 ## 其他
-* 当然你需要去[Sunny](www.ngrok.cc)注册个帐号
+* 当然你需要去[Sunny](https://www.ngrok.cc)注册个帐号
 
