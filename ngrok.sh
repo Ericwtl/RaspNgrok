@@ -1,16 +1,16 @@
 #!/bin/sh
 #----------用户配置----------
 #sunny文件的目录
-SUNNYDIR=/home/pi/ngrok
+SUNNYDIR=
 
 #你在ngrok.cc的地址，一般是free.ngrok.cc
-SERVER=pi.mattholy.studio
+SERVER=
 
 #代理端口，在仪表盘可以看到
-PORT=16404
+PORT=
 
 #Sunny的管道ID
-SUNNYID=a1a7ab9920d54f98
+SUNNYID=
 #---------------------------
 timeout=5
 target=https://www.ngrok.cc
